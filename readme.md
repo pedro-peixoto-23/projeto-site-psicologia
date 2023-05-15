@@ -1,5 +1,9 @@
 # Projeto - Site para Clínica de Psicologia
 
+**Autor: Pedro Peixoto Viana de Oliveira**
+
+**Ano de criação: 2022**
+
 ## Descrição do projeto
 O objetivo do projeto é criar um site para uma Clínica de Psicologia, onde o usuário possa conhecer a clínica, realizar agendamento de consulta, ver os dados de agendamento de uma consulta já realizada e apagar um agendamento caso necessário.
 
